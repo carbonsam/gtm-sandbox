@@ -1,0 +1,8 @@
+{
+  "name": "gtm-sandbox",
+  "version": "0.0.0",
+  "description": "A simple Hexo website to play around with and learn GTM",
+  "repository": "git@github.com:carbonsam/gtm-sandbox.git",
+  "author": "Samuel Schumacher <samuel.schumacher@daveramsey.com>",
+  "license": "MIT"
+}
