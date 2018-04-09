@@ -28,8 +28,7 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
-gauges_analytics:
+google_tag_manager: true
 favicon: /favicon.png
 twitter:
 google_plus:
